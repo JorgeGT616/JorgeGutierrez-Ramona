@@ -1,3 +1,5 @@
 Escrito en el documento
-vaya, aquí puede haber algo
+vaya, aquï¿½ puede haber algo
 he vuelto a la rama 1
+Escribo algo en el documento
+he vuelto a la master...
