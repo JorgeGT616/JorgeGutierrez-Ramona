@@ -1,8 +1,9 @@
-Escribo algo en el documento
-he vuelto a la master...
-casi...
+Escrito en el documento
+vaya, aquï¿½ puede haber algo
 
+Esta es el documento para la primer rama
+Vaya, aquï¿½ no he escrito nada triste...
 
 Inicio del segundo intento
-Cada día mi vida pierde más sentido
-Aunque a veces toca cuestionarse si en algún momento lo tuvo
+Cada dï¿½a mi vida pierde mï¿½s sentido
+Aunque a veces toca cuestionarse si en algï¿½n momento lo tuvo
