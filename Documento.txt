@@ -1,6 +1,4 @@
-Escribo algo en el documento
-he vuelto a la master...
-casi...
+Escrito en el documento
+vaya, aquí puede haber algo
 
-
-Inicio del segundo intento
+Esta es el documento para la primer rama
