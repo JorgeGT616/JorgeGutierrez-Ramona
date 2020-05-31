@@ -1,8 +1,12 @@
-Escribo algo en el documento
-he vuelto a la master...
-casi...
+ï»¿Escrito en el documento
+vaya, aquï¿½ puede haber algo
 
+Esta es el documento para la primer rama
+Vaya, aquï¿½ no he escrito nada triste...
+DespÃºes de el git merge este pÃ¡rrafo perdiÃ³ sentido, como mi vida
 
 Inicio del segundo intento
-Cada día mi vida pierde más sentido
-He empezado a entender muchas cosas que creo que sabía, pero en el fondo no había experimentado
+Cada dï¿½a mi vida pierde mï¿½s sentido
+Aunque a veces toca cuestionarse si en algï¿½n momento lo tuvo
+Cada dï¿½a mi vida pierde mï¿½s sentido
+He empezado a entender muchas cosas que creo que sabï¿½a, pero en el fondo no habï¿½a experimentado
